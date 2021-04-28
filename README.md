@@ -11,7 +11,7 @@ go get -u github.com/segmentio/ksuid
 
 ## What is a KSUID?
 
-KSUID is for K-Sortable Unique IDentifier. It is a kind of globally
+KSUID is for [K-Sortable](https://en.wikipedia.org/wiki/K-sorted_sequence) Unique IDentifier. It is a kind of globally
 unique identifier similar to a [RFC 4122 UUID](https://en.wikipedia.org/wiki/Universally_unique_identifier), built from the ground-up to be "naturally"
 sorted by generation timestamp without any special type-aware logic.
 
